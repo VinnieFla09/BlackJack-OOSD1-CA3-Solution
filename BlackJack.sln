@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack.csproj", "{442A6657-8135-4E1C-91C7-99197FEB3C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icons", "Icons\Icons.csproj", "{EF59E742-2593-434A-BABF-63881D490F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442A6657-8135-4E1C-91C7-99197FEB3C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442A6657-8135-4E1C-91C7-99197FEB3C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442A6657-8135-4E1C-91C7-99197FEB3C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442A6657-8135-4E1C-91C7-99197FEB3C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF59E742-2593-434A-BABF-63881D490F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF59E742-2593-434A-BABF-63881D490F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF59E742-2593-434A-BABF-63881D490F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF59E742-2593-434A-BABF-63881D490F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850904C2-6208-447E-B3C6-3794C85240F6}
+	EndGlobalSection
+EndGlobal
